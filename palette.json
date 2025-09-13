@@ -1,0 +1,14 @@
+{
+  "AT": "#0057B8",
+  "AP": "#2F75B5",
+  "ELEC": "#6F42C1",
+  "AERO": "#ED7D31",
+  "PH": "#C00000",
+  "CN": "#7AC943",
+  "PETRO": "#7F6000",
+  "STEEL": "#7F7F7F",
+  "CHEM": "#92D050",
+  "AGRO": "#00B050",
+  "EXTR": "#BFBFBF",
+  "UNSET": "#EEEEEE"
+}

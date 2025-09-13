@@ -1,0 +1,13 @@
+{
+  "note": "REPLACE THIS with your real TopoJSON of Mexican states.",
+  "expected": {
+    "objects": [
+      "states"
+    ],
+    "properties": [
+      "state_code",
+      "state_name"
+    ]
+  },
+  "tip": "Generate with topojson or mapshaper (WGS84). See README.md."
+}
